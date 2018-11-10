@@ -1,4 +1,4 @@
-# Botanica :sunflower: :leaves: :bouquet: :cherry_blossom: :hibiscus: :blossom: :seed:
+# Botanica :sunflower: :leaves: :bouquet: :cherry_blossom: :hibiscus: :blossom: :seedling:
 **Year** 2018
 ***
 **Platform** PC
